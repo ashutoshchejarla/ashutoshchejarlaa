@@ -40,8 +40,6 @@
 
 .backvideomob{
   display: none; /* Initially hide the mobile video */
-
-  flex-grow: 1;
   position: absolute;
   width: 100%;
   right: 0;
